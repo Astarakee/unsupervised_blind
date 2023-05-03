@@ -22,7 +22,7 @@ the structure of the input directory in which the nifti files of each subjet are
 
 To build the docker image, run the following command inside the repo: 
 
-`docker build . -t mytest
+docker build . -t mytest
 
 And then: 
 
